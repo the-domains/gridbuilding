@@ -1,7 +1,7 @@
 name: gridbuilding
 favicon: null
 layout_spectrum: 0.73588
-typography_spectrum: 0.62773
+typography_spectrum: 0.18661
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#495445'
     - '#0a0500'
   brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
