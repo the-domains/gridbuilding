@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gridbuilding]]></title>
-        <description><![CDATA[gridbuilding]]></description>
+        <title><![CDATA[van ambitie naar gebruikswaarde]]></title>
+        <description><![CDATA[van ambitie naar gebruikswaarde]]></description>
         <link>https://thegrid.ai/gridbuilding/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:44:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridbuilding/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wie ben ik?]]></title>
@@ -14,7 +14,7 @@ Ik heb veel ervaring in bouwprojectmanagement, ontwerp en risicomanagement, vana
 </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aa851bf-1343-4cda-ba03-0c61cbf397d4.jpg"></article>]]></description>
             <link>https://thegrid.ai/gridbuilding/84afae5d-1266-4e6d-913f-29f2f28dd5b9/index.html</link>
             <guid isPermaLink="false">84afae5d-1266-4e6d-913f-29f2f28dd5b9</guid>
-            <pubDate>Wed, 16 Mar 2016 20:25:49 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 21:44:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
