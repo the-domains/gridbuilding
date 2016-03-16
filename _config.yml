@@ -1,7 +1,7 @@
 name: gridbuilding
 favicon: null
-layout_spectrum: 0.9433493467513472
-typography_spectrum: 0.6258558314293623
+layout_spectrum: 0.48167
+typography_spectrum: 0.83521
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#fcfbf9'
+    - '#d9d0c0'
+    - '#b5a79b'
+    - '#495445'
+    - '#0a0500'
   brandStrength: 0.41602949635125697
-  lightness: 0.9339075416792184
-  saturation: 0.3120744889602065
-  rhythmicContrast: 0.9286805407609791
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
