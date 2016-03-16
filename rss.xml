@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gridbuilding]]></title>
+        <description><![CDATA[gridbuilding]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 20:22:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ik ben een creatieve generalist met een brede vakkennis op het gebied van bouwprojecten. Ik kan me goed verplaatsen in de belangen van andere betrokken partijen en daar strategisch mee omgaan om een gezamenlijk doel te kunnen bereiken. Daarnaast ben ik door mijn analytisch vermogen in staat complexe processen snel te doorgronden en in praktische voortgang te vertalen.
+Ik ben oprichter van Lijn74 en opgeleid tot constructief ingenieur, architect en auditor.
+Ik heb veel ervaring in bouwprojectmanagement, ontwerp en risicomanagement, vanaf initiatief tot oplevering van woongebouwen, winkelcentra, kantoren, bedrijfsgebouwen en leisure.
+</p>]]></description>
+            <link>undefined84afae5d-1266-4e6d-913f-29f2f28dd5b9/index.html</link>
+            <guid isPermaLink="false">84afae5d-1266-4e6d-913f-29f2f28dd5b9</guid>
+            <pubDate>Wed, 16 Mar 2016 20:22:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
